@@ -1,0 +1,90 @@
+.header{
+
+}
+.header h1{
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+
+}
+h1{
+  color:#99FF99;
+}
+body{
+  background-color: #FFFFCC;
+}
+.content{
+
+}
+
+.one{
+  text-align: center;
+  font-family: Hiragino Maru Gothic ProN;
+}
+.one h2{
+  color:#00FFFF;
+}
+.two{
+  text-align: center;
+  font-family: Raavi;
+}
+.two h2{
+  color:#CCFF00;
+}
+
+.three {
+  text-align: center;
+  font-family: Courier New;
+}
+.three h2{
+  text-align: center;
+  color:#FF3366;
+}
+.three li{
+  float:left;
+  list-style: none;
+  font-family: Roman;
+  padding:30px;
+  text-align: center;
+  
+}
+.sub-content{
+  text-align: center;
+}
+.sub-content h2{
+  color:#99FFFF;
+}
+.one img{
+  height:200px;
+  width:200px;
+}
+.two img{
+  height:300px;
+  width:500px;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: green;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px green;
+  margin:50px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message:active {
+  position: relative;
+  top: 10px;
+  box-shadow: none;
+}
